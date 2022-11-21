@@ -1,3 +1,39 @@
-p {
+body {
+    background: #F08EB2
+}
+
+#A-casa-ludica-007 {
+    width: 100%
+}
+
+h1 {
     text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#objetivo {
+    font-size: 20px
+}
+
+strong {
+    color: yellow;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
 }
